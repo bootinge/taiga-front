@@ -75,6 +75,7 @@ exports.files = function () {
         'modules/common/wizard',
         'modules/common/external-reference',
         'modules/common/custom-fields',
+        'modules/common/navbar',
 
         //Project modules
         'modules/home-projects-list',
