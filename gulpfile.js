@@ -99,6 +99,7 @@ paths.libs = [
     paths.app + "vendor/angular-animate/angular-animate.js",
     paths.app + "vendor/angular-translate/angular-translate.js",
     paths.app + "vendor/angular-translate-loader-static-files/angular-translate-loader-static-files.js",
+    paths.app + "vendor/ngInfiniteScroll/build/ng-infinite-scroll.js",
     paths.app + "vendor/i18next/i18next.js",
     paths.app + "vendor/moment/min/moment-with-langs.js",
     paths.app + "vendor/checksley/checksley.js",
